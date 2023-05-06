@@ -1,0 +1,12 @@
+.main {
+    text-align: center;
+    margin: 20px;
+}
+
+img {
+    max-height: 400px;
+    max-width: 400px;
+    display: block;
+    margin: 0 auto;
+}
+

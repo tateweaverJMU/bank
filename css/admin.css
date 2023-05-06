@@ -1,0 +1,10 @@
+#history {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+#withdraw {
+    text-align: right;
+}
+

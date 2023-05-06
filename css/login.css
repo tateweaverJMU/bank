@@ -1,0 +1,60 @@
+
+
+h2, body {
+    font-family: Arial, sans-serif;
+    
+    
+}
+img {
+    max-height: 300px;
+    max-width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+.createAccount {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#signup {
+    align-items: center;
+    border-top: 5px;
+}
+
+
+#helper {
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: lightgreen;
+    
+    margin: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#error {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    color: red;
+
+}
+
+h2 {
+    text-align: center;
+}
